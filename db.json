@@ -12,6 +12,23 @@
         "name": "typicode"
     },
     "getTempA": {
-        "template": "<button>Btn</button>"
+        "componentCode": '
+            <script setup lang="ts">
+        import {ref} from "vue";
+
+        const count = ref(0)
+        function handleClick() {
+            count.value ++
+        }
+</script>
+
+<template>
+  <div class="left-side-view">
+    <button @click="handleClick">btn{{count}}</button>
+  </div>
+</template>
+<style lang="scss" scoped>
+</style>
+        ',
     }
 }
