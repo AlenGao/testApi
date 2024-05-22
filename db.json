@@ -12,8 +12,6 @@
         "name": "typicode"
     },
     "getTempA": {
-        "componentCode": "
-            123
-        "
+        "componentCode": "import { defineComponent, ref, onMounted } from 'vue';export default defineComponent({name: 'ServerComponent',setup() {const message = ref('Hello from server component');onMounted(() => {console.log('ServerComponent mounted');});return { message };},template: `<div>{{ message }}</div>`});"
     }
 }
