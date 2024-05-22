@@ -12,6 +12,6 @@
         "name": "typicode"
     },
     "getTempA": {
-        "name": "typicode"
+        "template": "<button>Btn</button>"
     }
 }
