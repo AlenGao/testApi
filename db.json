@@ -28,5 +28,6 @@
 	},
 	"getTempA": {
 		"componentCode": "666"
-	}
+	},
+	"getTempB": "<script setup lang='ts'>import {ref} from 'vue';const count = ref(0);</script><template><div><button>btn count:{{count}}</button></div></template><style lang='scss' scoped></style>"
 }
