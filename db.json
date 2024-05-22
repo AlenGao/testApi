@@ -12,6 +12,6 @@
         "name": "typicode"
     },
     "getTempA": {
-        "componentCode": "{import {ref} from "vue";const count = ref(0);}"
+        "componentCode": "{import {ref} from "vue";}"
     }
 }
