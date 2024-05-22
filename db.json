@@ -12,6 +12,6 @@
         "name": "typicode"
     },
     "getTempA": {
-        "componentCode": "{import {ref} from "vue"}"
+        "componentCode": "import {ref} from 'vue'"
     }
 }
