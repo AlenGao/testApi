@@ -9,19 +9,19 @@
   "findBanner":[
     {
       "id":1,
-      "title":"情人节",
+      "title":"情人节1",
       "imageUrl":"http://39.98.123.211:8300/images/banner-1.png",
       "sort":1
     },
     {
       "id":2,
-      "title":"情人节",
+      "title":"情人节2",
       "imageUrl":"http://39.98.123.211:8300/images/banner-2.png",
       "sort":2
     },
     {
       "id":3,
-      "title":"情人节",
+      "title":"情人节3",
       "imageUrl":"http://39.98.123.211:8300/images/banner-3.png",
       "sort":3
     }
