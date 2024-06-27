@@ -15,7 +15,7 @@
     "componentCode": "<script setup lang='ts'>import {ref} from 'vue';const count = ref(0);</script><template><div><button>btn count:{{count}}</button></div></template><style lang='scss' scoped></style>"
   },
   "login": {
-    "token": "token 666",
+    "token": "token 777",
     "userInfo": {
       "name": "Alen",
       "role": 0
